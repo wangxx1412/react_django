@@ -1,6 +1,6 @@
 module.exports = {
   module: {
-    rule: [
+    rules: [
       {
         test: /\.js$/,
         exclude: /node_modules/,
